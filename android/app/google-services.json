@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "600006145581",
+    "project_id": "newchatapp-43277",
+    "storage_bucket": "newchatapp-43277.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600006145581:android:ab33a462d1057efd496aa4",
+        "android_client_info": {
+          "package_name": "com.example.newchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600006145581-irp160vj581fuc1epp92fkohedkgujvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmjqqODwCiLSSTuBCUifxnVaYuWBYQg88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600006145581-irp160vj581fuc1epp92fkohedkgujvr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "600006145581-16blfnj850l6qme2i63ok41aumrsn4h0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.newchatappwithfirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
